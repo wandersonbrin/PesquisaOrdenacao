@@ -16,7 +16,7 @@ public class Multa {
 		this.data = data;
 		this.hora = hora;
 	}
-	//teste2
+	
 	public String getPlaca() {
 		return placa;
 	}
